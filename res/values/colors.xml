@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="activity_background">#F4F4F4</color>
+    <color name="action_bar_stacked">#303030</color>
+    <color name="tab_pressed">#33CCCCCC</color>
+    <color name="tab_divider">#222222</color>
+    <color name="recent_empty_text">#E1E1E1</color>
+    <color name="progress_background">#66333333</color>
+    <color name="sign_up_button">#114430</color>
+    <color name="sign_up_button_pressed">#2A5E49</color>
+    <color name="sign_up_submit_button_disabled">#E1E6E4</color>
+    <color name="sign_up_submit_button_pressed">#55B18B</color>
+    <color name="light_gray">#16000000</color>
+    <color name="share_dialog_background">#EE0B1D16</color>
+    <color name="share_dialog_title_divider">#44AAAAAA</color>
+    <color name="light_blue">#3D95D5</color>
+    <color name="dark_blue">#2C84C4</color>
+</resources>

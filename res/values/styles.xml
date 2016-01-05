@@ -1,0 +1,26 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+ 
+ <!--    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/light_blue</item>
+        <item name="colorPrimaryDark">@color/dark_blue</item>
+        <item name="colorButtonNormal">@color/light_blue</item>
+        <item name="colorControlActivated">@color/dark_blue</item>
+    </style>
+
+    <style name="AppTheme.PagerSlidingTabStrip">
+        <item name="pstsDividerColor">@color/tab_divider</item>
+        <item name="pstsIndicatorColor">@color/light_blue</item>
+        <item name="pstsIndicatorHeight">@dimen/tab_indicator_height</item>
+        <item name="pstsTabBackground">@color/light_gray</item>
+        <item name="pstsTabPaddingLeftRight">0dp</item>
+        <item name="pstsShouldExpand">true</item>
+        <item name="android:background">@color/action_bar_stacked</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style> -->
+
+</resources>
